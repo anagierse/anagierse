@@ -1,7 +1,6 @@
 # Hi, I'm Ana Clara 👋
 
 🎓 **Information Systems student** at Mackenzie Presbyterian University  
-💻 **Product Operations Analyst - Marketing Technology** with previous professional experience in full-stack development  
 🤖 Interested in **Artificial Intelligence, Data, BI, Cloud & Software Engineering**
 
 I enjoy building practical solutions that connect **technology, data and business**.
