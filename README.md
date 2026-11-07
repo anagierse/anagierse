@@ -13,7 +13,6 @@ I enjoy building practical solutions that connect **technology, data and busines
 - 💼 Professional experience with **C#, .NET, Python, Angular and SQL**
 - 🤖 Experience maintaining solutions involving **AI/ML**
 - 🗄️ Experience with **MySQL and Microsoft SQL Server**
-- ⚡ Experience with **database optimization and backend development**
 - 📊 Experience with **Power BI and data analysis**
 - ☁️ **AWS Academy** – Cloud Foundations & Cloud Developing
 
